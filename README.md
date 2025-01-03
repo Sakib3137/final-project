@@ -1,2 +1,2 @@
 # final-project
-EDGE Project, web development
+EDGE Project, Web Development
